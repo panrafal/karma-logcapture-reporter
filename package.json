@@ -1,6 +1,6 @@
 {
   "name": "karma-logcapture-reporter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Karma plugin. Capture logs.",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,9 @@
     "log"
   ],
   "author": "Iván -DrSlump- Montes <drslump@pollinimini.net>",
-  "dependencies": {},
+  "dependencies": {
+    "chalk": "^1.1.1"
+  },
   "peerDependencies": {
     "karma": ">=0.9"
   },
