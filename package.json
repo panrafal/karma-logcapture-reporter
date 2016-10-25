@@ -1,6 +1,6 @@
 {
   "name": "karma-logcapture-reporter",
-  "version": "0.0.2",
+  "version": "0.0.2-base.1",
   "description": "A Karma plugin. Capture logs.",
   "main": "index.js",
   "scripts": {
